@@ -69,6 +69,8 @@ RegisterNumber: 24007383
 
 **RESULTS**
 
+Thus the Encoder 8 to 3 is designed and the truthtable is verified.
+
 
 
 
